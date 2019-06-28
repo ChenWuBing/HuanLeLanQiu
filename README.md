@@ -1,5 +1,5 @@
 # 几物家具-商家端
 
-In order to create a high-quality environment for furniture products, we specially invite merchants with authoritative guarantees to enter our platform, so that users can be more assured of purchasing, we will redouble our efforts.
+Our app is specially designed for platform merchants. They can manage their stores more conveniently, simplifying the opening of stores and management, and they can better master the operation of their stores.
 
 If you have any questions, please contact the technical support email: rivitt@163.com, thank you for your support.
