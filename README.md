@@ -1,5 +1,5 @@
-# 美味食记-商家端
+# 直播吧--专业篮球赛事
 
-We are an app that provides product launches for gourmet merchants. Gourmet merchants can publish their food through our platform and let more consumers come to spend. We hope to have more gourmet merchants to join us. Let us learn together and make progress together.
+We are a platform to broadcast basketball games in live text. Users can get the latest basketball game news on our platform. For each basketball game, a dedicated host will describe the situation in writing on the court.
 
-If you have any questions, please contact the technical support email: barbaraht562005@gmail.com, thank you for your support.
+If you have any questions, please contact the technical support email: wlwdhhh@126.com, thank you for your support.
