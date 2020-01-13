@@ -1,5 +1,5 @@
-# 直播吧--乐享篮球赛事
+# 直播吧--天天篮球赛事
 
-We are a platform to broadcast basketball games in live text. Users can get the latest basketball game news on our platform. For each basketball game, a dedicated host will describe the situation in writing on the court.
+我們是一個以直播文字轉播籃球比賽的平台。 用戶可以在我們的平台上獲得最新的籃球比賽新聞。 對於每場籃球比賽，專門的主持人都會在球場上以書面形式描述情況。
 
-If you have any questions, please contact the technical support email: wlwdhhh@126.com, thank you for your support.
+如有任何疑問，請聯繫技術支持電子郵件：wlwdhhh@126.com，感謝您的支持。
